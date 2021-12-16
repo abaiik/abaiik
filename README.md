@@ -1,4 +1,4 @@
-# <img src="https://" width="100"> 
+# <img src="https://github.com/abaiik/abaiik/blob/main/Img/abaiik-1.gif" width="100"> 
 # Neval Nurifvan
 
 <!-- Stats -->
