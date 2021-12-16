@@ -1,4 +1,4 @@
-# <img src="https://github.com/abaiik/abaiik/blob/main/Img/abaiik-1.gif" width="100"> 
+# <img src="https://github.com/abaiik/abaiik/blob/main/Img/abaiik-1.gif" width="100"> <img src="https://github.com/abaiik/abaiik/blob/main/Img/abaiik-2.gif" width="100">
 
 <!-- Stats -->
 <details><summary><b>My stats</b></summary><br>
