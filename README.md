@@ -1,5 +1,5 @@
 # <img src="https://" width="100"> 
-# Neval Nurifvan'S PROFILE  
+# Neval Nurifvan
 
 <!-- Stats -->
 <details><summary><b>My stats</b></summary><br>
