@@ -1,5 +1,5 @@
 # <img src="https://github.com/abaiik/abaiik/blob/main/Img/abaiik-1.gif" width="100"> 
-# Neval Nurifvan
+Neval Nurifvan
 
 <!-- Stats -->
 <details><summary><b>My stats</b></summary><br>
